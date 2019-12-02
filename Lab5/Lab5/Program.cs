@@ -31,7 +31,7 @@ namespace Lab5
 
 
 public string doTrick;
-public static void doTrick(trickName);
+public static void doTrick("Roll Over");
  { 
-Console.WriteLine( "{0} is so smart! {0} is doing a(n) {1}" , name, trickName);
+Console.WriteLine( "{0} is so smart! {0} is doing a(n) {1}" , Chris, "Roll Over");
  }
